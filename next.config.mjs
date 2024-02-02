@@ -20,8 +20,6 @@ export default withLess({
     lessOptions: {
       /* ... */
       modifyVars: {
-        "primary-color": "#9900FF",
-        "border-radius-base": "2px",
         /* ... */
       },
     },
